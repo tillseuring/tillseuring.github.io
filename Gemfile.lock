@@ -9,8 +9,6 @@ GEM
       zeitwerk (~> 2.2, >= 2.2.2)
     addressable (2.8.0)
       public_suffix (>= 2.0.2, < 5.0)
-<<<<<<< HEAD
-=======
     bibtex-ruby (4.4.7)
       latex-decode (~> 0.0)
     citeproc (1.0.10)
@@ -18,8 +16,6 @@ GEM
     citeproc-ruby (1.1.14)
       citeproc (~> 1.0, >= 1.0.9)
       csl (~> 1.6)
->>>>>>> parent of 8e1e406... Revert "First vesion to go live"
-    coffee-script (2.4.1)
       coffee-script-source
       execjs
     coffee-script-source (1.11.1)
@@ -27,14 +23,11 @@ GEM
     commonmarker (0.17.13)
       ruby-enum (~> 0.5)
     concurrent-ruby (1.1.9)
-<<<<<<< HEAD
-=======
     csl (1.6.0)
       namae (~> 1.0)
       rexml
     csl-styles (1.0.1.11)
       csl (~> 1.0)
->>>>>>> parent of 8e1e406... Revert "First vesion to go live"
     dnsruby (1.61.7)
       simpleidn (~> 0.1)
     em-websocket (0.5.2)
@@ -178,14 +171,12 @@ GEM
       rubyzip (>= 1.3.0, < 3.0)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
-<<<<<<< HEAD
-=======
     jekyll-scholar (5.16.0)
       bibtex-ruby (~> 4.0, >= 4.0.13)
       citeproc-ruby (~> 1.0)
       csl-styles (~> 1.0)
       jekyll (~> 3.0)
->>>>>>> parent of 8e1e406... Revert "First vesion to go live"
+
     jekyll-seo-tag (2.7.1)
       jekyll (>= 3.8, < 5.0)
     jekyll-sitemap (1.4.0)
@@ -243,32 +234,34 @@ GEM
       rexml
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
-<<<<<<< HEAD
-=======
+
     latex-decode (0.3.2)
->>>>>>> parent of 8e1e406... Revert "First vesion to go live"
+
     liquid (4.0.3)
     listen (3.7.0)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.3.6)
-<<<<<<< HEAD
-=======
+
     mini_portile2 (2.6.1)
->>>>>>> parent of 8e1e406... Revert "First vesion to go live"
+
     minima (2.5.1)
       jekyll (>= 3.5, < 5.0)
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
     minitest (5.14.4)
     multipart-post (2.1.1)
-<<<<<<< HEAD
+
     nokogiri (1.12.5-x86_64-linux)
-=======
+
     namae (1.1.1)
     nokogiri (1.12.5)
       mini_portile2 (~> 2.6.1)
->>>>>>> parent of 8e1e406... Revert "First vesion to go live"
+
+    namae (1.1.1)
+    nokogiri (1.12.5)
+      mini_portile2 (~> 2.6.1)
+
       racc (~> 1.4)
     octokit (4.21.0)
       faraday (>= 0.9)
@@ -311,25 +304,24 @@ GEM
     zeitwerk (2.5.1)
 
 PLATFORMS
-<<<<<<< HEAD
+
   x86_64-linux
-=======
+
   ruby
->>>>>>> parent of 8e1e406... Revert "First vesion to go live"
 
 DEPENDENCIES
   github-pages
   hawkins
   jekyll-feed
-<<<<<<< HEAD
+
   jekyll-sitemap
 
 BUNDLED WITH
    2.2.30
-=======
+
   jekyll-scholar
   jekyll-sitemap
 
 BUNDLED WITH
    2.1.4
->>>>>>> parent of 8e1e406... Revert "First vesion to go live"
+
