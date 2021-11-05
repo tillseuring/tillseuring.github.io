@@ -1,0 +1,1197 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\begin_preamble
+\frenchspacing
+\usepackage{amsmath}
+\newcommand{\ø}{\raisebox{.3ex}{\tiny$\; \bullet \;$}}
+\renewcommand{\arraystretch}{2.0}
+\usepackage{fancyheadings}
+\pagestyle{fancy}
+\chead{\textit{Till Seuring · Curriculum Vitae · 2021}}
+\usepackage{mathpazo}
+% Added by lyx2lyx
+\end_preamble
+\use_default_options false
+\maintain_unincluded_children false
+\language american
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures false
+\graphics default
+\default_output_format default
+\output_sync 1
+\bibtex_command default
+\index_command default
+\paperfontsize 11
+\spacing single
+\use_hyperref true
+\pdf_bookmarks true
+\pdf_bookmarksnumbered false
+\pdf_bookmarksopen false
+\pdf_bookmarksopenlevel 1
+\pdf_breaklinks true
+\pdf_pdfborder true
+\pdf_colorlinks false
+\pdf_backref false
+\pdf_pdfusetitle true
+\papersize letterpaper
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 2
+\use_package cancel 1
+\use_package esint 0
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 0
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 0.75in
+\topmargin 0.6in
+\rightmargin 0.75in
+\bottommargin 0.6in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation skip
+\defskip medskip
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\noindent
+\align center
+
+\size large
+Till Seuring (PhD)
+\lang ngerman
+
+\begin_inset Newline newline
+\end_inset
+
+Luxembourg Institute of Socio-Economic Research 
+\emph on
+
+\begin_inset Newline newline
+\end_inset
+
+till.seuring@liser.lu
+\begin_inset Newline newline
+\end_inset
+
+
+\emph default
+\lang american
+05.11.2021
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align left
+
+\series bold
+Education
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 0000000000000000000
+10/2012–4/2017 PhD, University of East Anglia (UK)
+\begin_inset Newline newline
+\end_inset
+
+
+\noun on
+thesis
+\noun default
+: The economics of type 2 diabetes in middle-income countries
+\begin_inset Newline newline
+\end_inset
+
+
+\noun on
+supervisory team
+\noun default
+: Prof Marc Suhrcke, Prof Max Bachmann, Dr Pieter Serneels
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 0000000000000000000
+10/2008–04/2011
+\emph on
+ Master of Arts in International Economics – Specialization in development
+ economics
+\begin_inset Newline newline
+\end_inset
+
+
+\emph default
+University of Göttingen (Germany) and Universidad Popular Autónoma del Estado
+ de Puebla (Mexico)
+\emph on
+ 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 0000000000000000000
+\noindent
+10/2004–03/2008 
+\emph on
+Bachelor of Arts in European Economic Studies
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+University of Bamberg (Germany) and Universidad de Buenos Aires (Argentina)
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\series bold
+Professional Experience
+\begin_inset Newline newline
+\end_inset
+
+
+\series default
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 0000000000000000000
+since
+\begin_inset space ~
+\end_inset
+
+10/2019 Postdoctoral researcher at Luxembourg Institute for Socio-Economic
+ Research (LISER), Luxembourg
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 0000000000000000000
+08/2016–09/2019 Postdoctoral researcher at 
+\emph on
+Leibniz Institute for Prevention Research and Epidemiology (BIPS)
+\emph default
+, Bremen, Germany 
+\begin_inset Newline newline
+\end_inset
+
+Research Group for Evidence-Based Public Health
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 0000000000000000000
+07/2013–04/2014 Consultant for the World Bank
+\begin_inset Newline newline
+\end_inset
+
+
+\lang ngerman
+Non-communicable disease in the MENA Region: socioeconomic inequalities
+ and economic consequences
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 0000000000000000000
+02/2011–08/2012 Junior Professional Officer for Health Economics at 
+\emph on
+International Diabetes Federation
+\emph default
+\noun on
+, 
+\noun default
+Brussels
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 0000000000000000000
+05/2009–01/2011 Student Assistant, 
+\emph on
+Chair of Development Economics Prof.
+ Stephan Klasen
+\emph default
+, University of Göttingen
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 0000000000000000000
+08/2009–10/2009
+\noun on
+ 
+\noun default
+Internship at the 
+\emph on
+Institute for the World Economy
+\emph default
+\noun on
+ (
+\noun default
+IfW
+\noun on
+)
+\noun default
+ in Kiel
+\noun on
+, 
+\noun default
+Germany
+\noun on
+ 
+\noun default
+
+\begin_inset Newline newline
+\end_inset
+
+Department –Poverty Reduction, Equity, and Development–
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align left
+
+\series bold
+Research
+\begin_inset Newline newline
+\end_inset
+
+
+\series default
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 0000000000000000000
+Recent
+\begin_inset space ~
+\end_inset
+
+Publications 
+\emph on
+\lang ngerman
+Methods to Generate Innovative Research Ideas and Improve Patient and Public
+ Involvement in Modern Epidemiological Research: a Review, a Patient Viewpoint
+ and Guidelines for Implementation of a Digital Cohort Study.
+ 
+\begin_inset Newline newline
+\end_inset
+
+
+\emph default
+Aguayo, G.
+ A., Goetzinger, C., Scibilia, R., Fischer, A., 
+\series bold
+Seuring, T
+\series default
+., Tran, V.-T., Ravaud, P., Bereczky, T., Huiart, L., & Fagherazzi, G.
+
+\emph on
+ (2020).
+ 
+\begin_inset Newline newline
+\end_inset
+
+Journal of Medical Internet Research (2021).
+ https://doi.org/10.2196/25743
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Using financial incentives to increase physical activity among employees
+ as a strategy of workplace health promotion: protocol for a systematic
+ review.
+\begin_inset Newline newline
+\end_inset
+
+
+\emph default
+Heise, T.
+ L., Frense, J., Christianson, L., & 
+\series bold
+Seuring, T.
+ 
+\series default
+(2021).
+ 
+\emph on
+
+\begin_inset Newline newline
+\end_inset
+
+BMJ Open (2020).
+ http://dx.doi.org/10.1136/bmjopen-2020-042888
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+The impact of diabetes on labour market outcomes in Mexico: A panel data
+ and biomarker analysis.
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+\emph default
+\lang american
+Seuring, T.
+\series default
+, Serneels, P., Suhrcke, M.
+\begin_inset Newline newline
+\end_inset
+
+
+\emph on
+\lang ngerman
+Social Science & Medicine (2019), 
+\lang american
+https://doi.org/
+\lang ngerman
+10.1016/j.socscimed.2019.05.051
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Using peer education to improve diabetes management and outcomes in a low-income
+ setting: a randomized controlled trial.
+ 
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+\emph default
+Seuring, T.
+\series default
+\emph on
+,
+\emph default
+ Marthoenis, Rhode, S., Rogge, L., Rau, H., Besançon, S., Zufry, H., Sofyan,
+ H., & Vollmer, S.
+
+\emph on
+ 
+\begin_inset Newline newline
+\end_inset
+
+Trials (2019).
+ https://doi.org/10.1186/s13063-019-3656-1
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Thou shalt be given...
+ but how? A replication study of a randomized experiment on food assistance
+ in northern Ecuador
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\lang american
+Lhachimi, S.
+ K., & 
+\series bold
+Seuring, T.
+\series default
+\emph on
+
+\begin_inset Newline newline
+\end_inset
+
+
+\lang ngerman
+Journal of Development Effectiveness
+\lang american
+ (2019), https://doi.org/10.1080/19439342.2019.1666901
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+The impact of diabetes on employment in Mexico
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+\emph default
+Till Seuring
+\series default
+, Yevgeniy Goryakin, Marc Suhrcke
+\begin_inset Newline newline
+\end_inset
+
+
+\emph on
+Economics and Human Biology (2015), DOI: 10.1016/j.ehb.2015.04.002
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\emph on
+The economic costs of type 2 diabetes: a global systematic review 
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+\emph default
+Till Seuring
+\series default
+, Olga Archangelidi, Marc Suhrcke
+\begin_inset Newline newline
+\end_inset
+
+
+\emph on
+PharmacoEconomics (2015), DOI: 10.1007/s40273-015-0268-9
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+IDF Diabetes Atlas estimates of 2014 global health expenditures on diabetes
+\begin_inset Newline newline
+\end_inset
+
+
+\emph default
+da Rocha Fernandes, J., Ogurtsova, K., Linnenkamp, U., Guariguata, L., 
+\series bold
+Seuring, T.
+\series default
+, Zhang, P., Cavan, D., & Makaroff, L.
+ E.
+\emph on
+
+\begin_inset Newline newline
+\end_inset
+
+Diabetes Research and Clinical Practice (2016), DOI: 10.1016/j.diabres.2016.04.016
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Type 1 diabetes mellitus care and education in China: The 3C study of coverage,
+ cost, and care in Beijing and Shantou
+\begin_inset Newline newline
+\end_inset
+
+
+\emph default
+McGuire, H.
+ C., Ji, L., Kissimova-Skarbek, K., Whiting, D., Aguirre, F., Zhang, P., Lin,
+ S., Gong, C., Zhao, W., Lu, J., Guo, X., Ji, Y., 
+\series bold
+Seuring, T.
+\series default
+, Hong, T., Chen, L., Weng, J., & Zhou, Z.
+\begin_inset Newline newline
+\end_inset
+
+
+\emph on
+Diabetes Research and Clinical Practice (2017), DOI: 10.1016/j.diabres.2017.02.027
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 0000000000000000000
+Book
+\begin_inset space ~
+\end_inset
+
+chapter 
+\series bold
+Seuring, T.
+
+\series default
+ (2020).
+ Evidence-Based Public Health.
+ In R.
+ Haring (Ed.), Gesundheitswissenschaften.
+ Springer Reference Pflege – Therapie – Gesundheit.
+ Springer, Berlin, Heidelberg.
+ https://doi.org/10.1007/978-3-662-54179-1_62-1 
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Luecke, M., & 
+\series bold
+Seuring, T.
+ 
+\series default
+(2011).
+ The Role of Stabilization and Savings Funds in the Sustainable Management
+ of Natural Resource Revenues: Kazakhstan and Azerbaijan.
+ In A.
+ Franke & J.
+ Windwehr (Eds.), Are Resources a Curse? Rentierism and Energy Policy in
+ Post-Soviet States (1st ed., pp.
+ 121–146).
+ Barabra Budrich Publishers, Opladen & Farmington Hills, MI.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 0000000000000000000
+Working
+\begin_inset space ~
+\end_inset
+
+papers
+\emph on
+ Diabetes, employment and behavioural risk factors in China: Marginal structural
+ models versus fixed effects models
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+(
+\series bold
+Till Seuring
+\series default
+, Pieter Serneels, Marc Suhrcke, Max Bachmann)
+\begin_inset Newline newline
+\end_inset
+
+IZA Discussion Papers No.
+ 11817.
+ 09/2018,
+\emph on
+
+\begin_inset Newline newline
+\end_inset
+
+The impact of diabetes on labour market outcomes in Mexico: a panel and
+ biomarker data analysis
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+(
+\series bold
+Till Seuring
+\series default
+, Pieter Serneels, Marc Suhrcke)
+\begin_inset Newline newline
+\end_inset
+
+IZA Discussion Papers No.
+ 10123.
+ 08/2016, 
+\emph on
+CHE Research Paper No.
+ 134 – The University of York.
+ 08/2016The Impact of Diabetes on Employment in Mexico
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+(
+\series bold
+Till Seuring
+\series default
+, Yevgeniy Goryakin, Marc Suhrcke)
+\begin_inset Newline newline
+\end_inset
+
+
+\emph on
+CHE Research Paper No.
+ 100– The University of York.
+ 07/2014
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 0000000000000000000
+Funded
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 0000000000000000000
+projects
+\begin_inset space ~
+\end_inset
+
+(PI) 
+\emph on
+Uncovering and understanding differences in health behaviours in people
+ with diabetes (CASCARA)
+\begin_inset Newline newline
+\end_inset
+
+
+\emph default
+Horizon 2020 Widening fellowship, October 2021 - September 2023
+\emph on
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Using financial incentives to increase physical activity among employees
+ as a strategy of workplace health promotion (AFKAB)
+\begin_inset Newline newline
+\end_inset
+
+
+\emph default
+German Federal Ministry of Education and Research
+\emph on
+, April 2020 - September 2021
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+A randomized trial on the suitability of peer education to improve diabetes
+ management and outcomes in a low-income setting
+\emph default
+ in Aceh, Indonesia, Co-Principal investigator (with Sebastian Vollmer),
+ International Diabetes Federation - BRiDGES 2, February 2018 - January
+ 2021
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\series bold
+Talks and Workshops
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 0000000000000000000
+\noindent
+Conferences/talks Presentation at meeting of Project on Access to Care for
+ Cardiometabolic Diseases (HPACC), 2021
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Accepted presentation at Centre for the Study of African Economies (CSAE)
+ Conference 2020, cancelled due to Covid19
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+German Society for Epidemiology DGEpi Congress 2019
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+International Health Economics Association iHEA 2017, Award for 2nd best
+ student paper
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Brownbag seminar at Centre for Modern Indian Studies at Universiy of Göttingen
+ 2017 
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+German Society for Health Economics (DGGÖ) 2017
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+WifOR Workshop "Education, Health and Labor Market Outcomes" 2015
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+European Health Economics Association PhD-Supervisor Conference 2015
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Economics Of Disease Conference 2013
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 0000000000000000000
+\noindent
+Organised
+\begin_inset space ~
+\end_inset
+
+workshops 
+\emph on
+Epidemiology Evidence Policy - Workshop on epidemiology and evidence-based
+ public health.
+
+\emph default
+ Workshop organised together with Prof.
+ Hajo Zeeb at the German Society for Epidemiology DGEpi Congress 2019
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 0000000000000000000
+Invited
+\begin_inset space ~
+\end_inset
+
+presentations Speaker at Roundtable discussion in European Parliament on
+ Diabetes Research in Europe: Priorities in advancing towards a cure and
+ improving patient well-being, November 2016, Brussels
+\begin_inset Newline newline
+\end_inset
+
+Presentation on 
+\begin_inset Quotes eld
+\end_inset
+
+The social and economic impact of diabetes
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\series bold
+\lang ngerman
+Teaching
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 0000000000000000000
+
+\lang ngerman
+WS
+\begin_inset space ~
+\end_inset
+
+2016/17 Health Economics I and II, University of Bremen
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 0000000000000000000
+
+\lang ngerman
+June
+\begin_inset space ~
+\end_inset
+
+2015
+\begin_inset space ~
+\end_inset
+
+and
+\begin_inset space ~
+\end_inset
+
+2016 Guest lecture on Health Economic Decision Modelling, Fulda University
+ of Applied Sciences
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 0000000000000000000
+
+\lang ngerman
+WS
+\begin_inset space ~
+\end_inset
+
+2018/19 Systematic reviewing, University of Bremen
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\series bold
+Refereeing
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The Lancet Diabetes and Endocrinology, European Journal for Health Economics,
+ Value in Health, PharmacoEconomics, Diabetes Research and Clinical Practice,
+ Diabetic Medicine, Economics and Human Biology
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\series bold
+Languages
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 0000000000000000000
+\noindent
+German Mother tongue
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 0000000000000000000
+\noindent
+English Oral and written proficiency
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 0000000000000000000
+Spanish Oral and written proficiency
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\series bold
+Computer skills
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 0000000000000000000
+\noindent
+Stata,
+\begin_inset space ~
+\end_inset
+
+R,
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+LaTeX
+\end_layout
+
+\end_inset
+
+,
+\begin_inset space ~
+\end_inset
+
+Git
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\series bold
+Websites
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 0000000000000000000
+Website 
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+https://sites.google.com/view/tillseuring/home
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 0000000000000000000
+Researchgate 
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+https://www.researchgate.net/profile/Till_Seuring
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 0000000000000000000
+Google
+\begin_inset space ~
+\end_inset
+
+Scholar 
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+https://scholar.google.com/citations?user=z1QbR-QAAAAJ&hl=en
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
